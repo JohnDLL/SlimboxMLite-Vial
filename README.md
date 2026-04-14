@@ -1,7 +1,7 @@
 # SlimboxMLite-Vial
 Vial support for the [Slimbox M Lite](https://www.printables.com/model/1349620-slimbox-m-lite) design by Lingwendil on Printables
 
-Code was compilted using an Arduino Pro Micro.
+Code was compiled for use on an Arduino Pro Micro
 
 Flash using Qmk Toolbox or QMK MSYS
 
