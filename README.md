@@ -1,5 +1,5 @@
 # SlimboxMLite-Vial
-Vial support for the Slimbox M Lite design by Lingwendil on Printables
+Vial support for the [Slimbox M Lite](https://www.printables.com/model/1349620-slimbox-m-lite) design by Lingwendil on Printables
 
 Code was compilted using an Arduino Pro Micro.
 
